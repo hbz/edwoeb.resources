@@ -21897,4 +21897,118 @@
   "weight" : "",
   "type" : "STORE",
   "multilangLabel" : { }
-} ]
+},
+{
+  "uri" : "info:toscience/zettel/ktblHeader",
+  "comment" : "",
+  "label" : "KTBL",
+  "icon" : "",
+  "name" : "KTBL",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+},
+{
+  "uri" : "info:toscience/zettel/livestock",
+  "comment" : "",
+  "label" : "Livestock",
+  "icon" : "",
+  "name" : "livestock",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+},
+{
+  "uri" : "info:toscience/zettel/ventilation",
+  "comment" : "",
+  "label" : "Ventilation",
+  "icon" : "",
+  "name" : "ventilation",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+},
+{
+  "uri" : "info:toscience/zettel/treatment",
+  "comment" : "",
+  "label" : "Treatment",
+  "icon" : "",
+  "name" : "treatment",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+},
+{
+  "uri" : "info:toscience/zettel/housing",
+  "comment" : "",
+  "label" : "Housing",
+  "icon" : "",
+  "name" : "housing",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+},
+{
+  "uri" : "info:toscience/zettel/treatment_detail",
+  "comment" : "",
+  "label" : "Treatment detail",
+  "icon" : "",
+  "name" : "treatment_detail",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+},
+{
+  "uri" : "info:toscience/zettel/emissionprobe",
+  "comment" : "",
+  "label" : "Emissionprobe",
+  "icon" : "",
+  "name" : "emissionprobe",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+},
+{
+  "uri" : "info:toscience/zettel/emission",
+  "comment" : "",
+  "label" : "Emission",
+  "icon" : "",
+  "name" : "emission",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+},
+{
+  "uri" : "info:toscience/zettel/emission_reducing",
+  "comment" : "",
+  "label" : "Emission reducing",
+  "icon" : "",
+  "name" : "emission_reducing",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+}, 
+{
+  "uri" : "info:toscience/zettel/project_title",
+  "comment" : "",
+  "label" : "Project title",
+  "icon" : "",
+  "name" : "project_title",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+}
+
+
+
+]
