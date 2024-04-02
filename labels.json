@@ -21953,8 +21953,8 @@
   "icon" : "",
   "name" : "housing",
   "referenceType" : "String",
-  "container" : "261",
-  "weight" : "",
+  "container" : "",
+  "weight" : "261",
   "type" : "STORE",
   "multilangLabel" : { }
 },
@@ -21989,8 +21989,8 @@
   "icon" : "",
   "name" : "emission",
   "referenceType" : "String",
-  "container" : "264",
-  "weight" : "",
+  "container" : "",
+  "weight" : "264",
   "type" : "STORE",
   "multilangLabel" : { }
 },
