@@ -21905,7 +21905,7 @@
   "icon" : "",
   "name" : "ktbl",
   "referenceType" : "String",
-  "container" : "",
+  "container" : "@list",
   "weight" : "257",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21917,7 +21917,7 @@
   "icon" : "",
   "name" : "livestock",
   "referenceType" : "String",
-  "container" : "",
+  "container" : "@list",
   "weight" : "258",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21929,7 +21929,7 @@
   "icon" : "",
   "name" : "ventilation",
   "referenceType" : "String",
-  "container" : "",
+  "container" : "@list",
   "weight" : "259",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21941,7 +21941,7 @@
   "icon" : "",
   "name" : "treatment",
   "referenceType" : "String",
-  "container" : "",
+  "container" : "@list",
   "weight" : "260",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21953,7 +21953,7 @@
   "icon" : "",
   "name" : "housing",
   "referenceType" : "String",
-  "container" : "",
+  "container" : "@list",
   "weight" : "261",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21965,7 +21965,7 @@
   "icon" : "",
   "name" : "treatment_detail",
   "referenceType" : "String",
-  "container" : "",
+  "container" : "@list",
   "weight" : "262",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21977,7 +21977,7 @@
   "icon" : "",
   "name" : "emissionprobe",
   "referenceType" : "String",
-  "container" : "",
+  "container" : "@list",
   "weight" : "263",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21989,7 +21989,7 @@
   "icon" : "",
   "name" : "emission",
   "referenceType" : "String",
-  "container" : "",
+  "container" : "@list",
   "weight" : "264",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -22001,7 +22001,7 @@
   "icon" : "",
   "name" : "emission_reducing",
   "referenceType" : "String",
-  "container" : "",
+  "container" : "@list",
   "weight" : "265",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -22013,7 +22013,7 @@
   "icon" : "",
   "name" : "project_title",
   "referenceType" : "String",
-  "container" : "",
+  "container" : "@list",
   "weight" : "266",
   "type" : "STORE",
   "multilangLabel" : { }
