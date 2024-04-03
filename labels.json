@@ -21899,7 +21899,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/ktblHeader",
+  "uri" : "http://hbz-nrw.de/regal#ktblHeader",
   "comment" : "",
   "label" : "KTBL",
   "icon" : "",
@@ -21911,7 +21911,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/livestock",
+  "uri" : "http://hbz-nrw.de/regal#livestock",
   "comment" : "",
   "label" : "Livestock",
   "icon" : "",
@@ -21923,7 +21923,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/ventilation",
+  "uri" : "http://hbz-nrw.de/regal#ventilation",
   "comment" : "",
   "label" : "Ventilation",
   "icon" : "",
@@ -21935,7 +21935,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/treatment",
+  "uri" : "http://hbz-nrw.de/regal#treatment",
   "comment" : "",
   "label" : "Treatment",
   "icon" : "",
@@ -21947,7 +21947,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/housing",
+  "uri" : "http://hbz-nrw.de/regal#housing",
   "comment" : "",
   "label" : "Housing",
   "icon" : "",
@@ -21959,7 +21959,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/treatment_detail",
+  "uri" : "http://hbz-nrw.de/regal#treatment_detail",
   "comment" : "",
   "label" : "Treatment detail",
   "icon" : "",
@@ -21971,7 +21971,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/emissionprobe",
+  "uri" : "http://hbz-nrw.de/regal#emissionprobe",
   "comment" : "",
   "label" : "Emissionprobe",
   "icon" : "",
@@ -21983,7 +21983,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/emission",
+  "uri" : "http://hbz-nrw.de/regal#emission",
   "comment" : "",
   "label" : "Emission",
   "icon" : "",
@@ -21995,7 +21995,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/emission_reducing",
+  "uri" : "http://hbz-nrw.de/regal#emission_reducing",
   "comment" : "",
   "label" : "Emission reducing",
   "icon" : "",
@@ -22007,7 +22007,7 @@
   "multilangLabel" : { }
 }, 
 {
-  "uri" : "info:toscience/zettel/project_title",
+  "uri" : "http://hbz-nrw.de/regal#project_title",
   "comment" : "",
   "label" : "Project title",
   "icon" : "",
