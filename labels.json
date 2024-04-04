@@ -21899,7 +21899,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "http://hbz-nrw.de/regal#ktblHeader",
+  "uri" : "info:toscience/zettel/ktblHeader",
   "comment" : "",
   "label" : "KTBL",
   "icon" : "",
@@ -21911,7 +21911,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "http://hbz-nrw.de/regal#livestock",
+  "uri" : "info:toscience/zettel/livestock",
   "comment" : "",
   "label" : "Livestock",
   "icon" : "",
@@ -21923,7 +21923,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "http://hbz-nrw.de/regal#ventilation",
+  "uri" : "info:toscience/zettel/ventilation",
   "comment" : "",
   "label" : "Ventilation",
   "icon" : "",
@@ -21935,7 +21935,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "http://hbz-nrw.de/regal#treatment",
+  "uri" : "info:toscience/zettel/treatment",
   "comment" : "",
   "label" : "Treatment",
   "icon" : "",
@@ -21947,7 +21947,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "http://hbz-nrw.de/regal#housing",
+  "uri" : "info:toscience/zettel/housing",
   "comment" : "",
   "label" : "Housing",
   "icon" : "",
@@ -21959,7 +21959,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "http://hbz-nrw.de/regal#treatment_detail",
+  "uri" : "info:toscience/zettel/treatment_detail",
   "comment" : "",
   "label" : "Treatment detail",
   "icon" : "",
@@ -21971,7 +21971,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "http://hbz-nrw.de/regal#emissionprobe",
+  "uri" : "info:toscience/zettel/emissionprobe",
   "comment" : "",
   "label" : "Emissionprobe",
   "icon" : "",
@@ -21983,7 +21983,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "http://hbz-nrw.de/regal#emission",
+  "uri" : "info:toscience/zettel/emission",
   "comment" : "",
   "label" : "Emission",
   "icon" : "",
@@ -21995,7 +21995,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "http://hbz-nrw.de/regal#emission_reducing",
+  "uri" : "info:toscience/zettel/emission_reducing",
   "comment" : "",
   "label" : "Emission reducing",
   "icon" : "",
@@ -22007,7 +22007,7 @@
   "multilangLabel" : { }
 }, 
 {
-  "uri" : "http://hbz-nrw.de/regal#project_title",
+  "uri" : "info:toscience/zettel/project_title",
   "comment" : "",
   "label" : "Project title",
   "icon" : "",
