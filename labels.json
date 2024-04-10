@@ -21899,7 +21899,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/ktblHeader",
+  "uri" : "http://purl.org/dc/terms/ktblHeader",
   "comment" : "",
   "label" : "KTBL",
   "icon" : "",
@@ -21911,7 +21911,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/livestock",
+  "uri" : "http://purl.org/dc/terms/livestock",
   "comment" : "",
   "label" : "Livestock",
   "icon" : "",
@@ -21923,7 +21923,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/ventilation",
+  "uri" : "http://purl.org/dc/terms/ventilation",
   "comment" : "",
   "label" : "Ventilation",
   "icon" : "",
@@ -21935,7 +21935,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/treatment",
+  "uri" : "http://purl.org/dc/terms/treatment",
   "comment" : "",
   "label" : "Treatment",
   "icon" : "",
@@ -21947,7 +21947,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/housing",
+  "uri" : "http://purl.org/dc/terms/housing",
   "comment" : "",
   "label" : "Housing",
   "icon" : "",
@@ -21959,7 +21959,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/treatment_detail",
+  "uri" : "http://purl.org/dc/terms/treatment_detail",
   "comment" : "",
   "label" : "Treatment detail",
   "icon" : "",
@@ -21971,7 +21971,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/emissionprobe",
+  "uri" : "http://purl.org/dc/terms/emissionprobe",
   "comment" : "",
   "label" : "Emissionprobe",
   "icon" : "",
@@ -21983,7 +21983,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/emission",
+  "uri" : "http://purl.org/dc/terms/emission",
   "comment" : "",
   "label" : "Emission",
   "icon" : "",
@@ -21995,7 +21995,7 @@
   "multilangLabel" : { }
 },
 {
-  "uri" : "info:toscience/zettel/emission_reducing",
+  "uri" : "http://purl.org/dc/terms/emission_reducing",
   "comment" : "",
   "label" : "Emission reducing",
   "icon" : "",
@@ -22007,7 +22007,7 @@
   "multilangLabel" : { }
 }, 
 {
-  "uri" : "info:toscience/zettel/project_title",
+  "uri" : "http://purl.org/dc/terms/project_title",
   "comment" : "",
   "label" : "Project title",
   "icon" : "",
