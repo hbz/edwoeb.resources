@@ -21876,7 +21876,7 @@
   "icon" : "",
   "name" : "ktbl",
   "referenceType" : "String",
-  "container" : "@list",
+  "container" : "",
   "weight" : "257",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21888,7 +21888,7 @@
   "icon" : "",
   "name" : "livestock",
   "referenceType" : "String",
-  "container" : "@list",
+  "container" : "",
   "weight" : "258",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21900,7 +21900,7 @@
   "icon" : "",
   "name" : "ventilation",
   "referenceType" : "String",
-  "container" : "@list",
+  "container" : "",
   "weight" : "259",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21912,7 +21912,7 @@
   "icon" : "",
   "name" : "treatment",
   "referenceType" : "String",
-  "container" : "@list",
+  "container" : "",
   "weight" : "260",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21924,7 +21924,7 @@
   "icon" : "",
   "name" : "housing",
   "referenceType" : "String",
-  "container" : "@list",
+  "container" : "",
   "weight" : "261",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21936,7 +21936,7 @@
   "icon" : "",
   "name" : "treatment_detail",
   "referenceType" : "String",
-  "container" : "@list",
+  "container" : "",
   "weight" : "262",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21948,7 +21948,7 @@
   "icon" : "",
   "name" : "emissionprobe",
   "referenceType" : "String",
-  "container" : "@list",
+  "container" : "",
   "weight" : "263",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21960,7 +21960,7 @@
   "icon" : "",
   "name" : "emission",
   "referenceType" : "String",
-  "container" : "@list",
+  "container" : "",
   "weight" : "264",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21972,7 +21972,7 @@
   "icon" : "",
   "name" : "emission_reducing",
   "referenceType" : "String",
-  "container" : "@list",
+  "container" : "",
   "weight" : "265",
   "type" : "STORE",
   "multilangLabel" : { }
@@ -21984,7 +21984,7 @@
   "icon" : "",
   "name" : "project_title",
   "referenceType" : "String",
-  "container" : "@list",
+  "container" : "",
   "weight" : "266",
   "type" : "STORE",
   "multilangLabel" : { }
