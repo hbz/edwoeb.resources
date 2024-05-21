@@ -20727,7 +20727,7 @@
 }, {
   "uri" : "http://www.gnu.org/licenses/gpl-3.0.de.html",
   "comment" : "",
-  "label" : "GNU GPL (GNU General Public Licence)",
+  "label" : "GNU GPL 3.0 (GNU General Public License 3)",
   "icon" : "",
   "name" : "",
   "container" : "",
@@ -20950,7 +20950,7 @@
 }, {
   "uri" : "https://creativecommons.org/licenses/by/4.0",
   "comment" : "",
-  "label" : "CC BY 4.0",
+  "label" : "CC BY 4.0 (empfohlen)",
   "icon" : "",
   "name" : "",
   "container" : "",
@@ -21891,6 +21891,16 @@
   "uri" : "ttps://creativecommons.org/publicdomain/zero/1.0/",
   "comment" : "",
   "label" : "CC0 1.0",
+  "icon" : "",
+  "name" : "",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
+}, {
+  "uri" : "https://opensource.org/license/MIT",
+  "comment" : "",
+  "label" : "MIT License",
   "icon" : "",
   "name" : "",
   "container" : "",
