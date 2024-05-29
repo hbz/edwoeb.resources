@@ -21907,7 +21907,7 @@
   "referenceType" : "String",
   "container" : "",
   "weight" : "257",
-  "type" : "STORE",
+  "type" : "CONTEXT",
   "multilangLabel" : { }
 },
 {
@@ -21919,7 +21919,7 @@
   "referenceType" : "String",
   "container" : "",
   "weight" : "258",
-  "type" : "STORE",
+  "type" : "CONTEXT",
   "multilangLabel" : { }
 },
 {
@@ -21931,7 +21931,7 @@
   "referenceType" : "String",
   "container" : "",
   "weight" : "259",
-  "type" : "STORE",
+  "type" : "CONTEXT",
   "multilangLabel" : { }
 },
 {
@@ -21943,7 +21943,7 @@
   "referenceType" : "String",
   "container" : "",
   "weight" : "260",
-  "type" : "STORE",
+  "type" : "CONTEXT",
   "multilangLabel" : { }
 },
 {
@@ -21955,7 +21955,7 @@
   "referenceType" : "String",
   "container" : "",
   "weight" : "261",
-  "type" : "STORE",
+  "type" : "CONTEXT",
   "multilangLabel" : { }
 },
 {
@@ -21967,7 +21967,7 @@
   "referenceType" : "String",
   "container" : "",
   "weight" : "262",
-  "type" : "STORE",
+  "type" : "CONTEXT",
   "multilangLabel" : { }
 },
 {
@@ -21979,7 +21979,7 @@
   "referenceType" : "String",
   "container" : "",
   "weight" : "263",
-  "type" : "STORE",
+  "type" : "CONTEXT",
   "multilangLabel" : { }
 },
 {
@@ -21991,7 +21991,7 @@
   "referenceType" : "String",
   "container" : "",
   "weight" : "264",
-  "type" : "STORE",
+  "type" : "CONTEXT",
   "multilangLabel" : { }
 },
 {
@@ -22003,7 +22003,7 @@
   "referenceType" : "String",
   "container" : "",
   "weight" : "265",
-  "type" : "STORE",
+  "type" : "CONTEXT",
   "multilangLabel" : { }
 }, 
 {
@@ -22015,7 +22015,19 @@
   "referenceType" : "String",
   "container" : "",
   "weight" : "266",
-  "type" : "STORE",
+  "type" : "CONTEXT",
+  "multilangLabel" : { }
+},
+{
+  "uri" : "http://purl.org/dc/terms/test_design",
+  "comment" : "",
+  "label" : "Test design",
+  "icon" : "",
+  "name" : "test_design",
+  "referenceType" : "String",
+  "container" : "",
+  "weight" : "267",
+  "type" : "CONTEXT",
   "multilangLabel" : { }
 }
 
